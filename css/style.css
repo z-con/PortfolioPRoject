@@ -1,0 +1,41 @@
+body {
+    background-image: url("../images/tracks.jpeg")
+  }
+
+  #contact {
+    color: white;
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    align-content: space-between;
+    padding: 100px;
+}
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+
+  h2 {
+      color: white;
+      text-align: center;
+  }
+
+  h3 {
+      color: white;
+  }
+  h4 {
+    color: white;
+    text-align: center;
+}
+  h5 {
+      color: white;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
