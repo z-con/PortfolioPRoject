@@ -35,7 +35,7 @@ button {
   flex-direction: column;
 }
 
-#bio {
+#human-object {
   display: flex;
   flex-direction: column;
   justify-content: center;
