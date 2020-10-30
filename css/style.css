@@ -98,3 +98,7 @@ button {
   padding-right: 5%;
   font-size: 80%;
 }
+
+.huge {
+  font-size: 200%;;
+}
