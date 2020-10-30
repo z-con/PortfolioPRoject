@@ -21,7 +21,7 @@ button {
   display: inline-block;
 }
 
-#button-container {
+#icon-container {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
