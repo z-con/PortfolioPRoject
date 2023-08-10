@@ -8,7 +8,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
-  background-color: rgba(25,25,25,.3);
+  background-color: rgba(25,25,25,.3); 
 }
 
 button {
@@ -51,7 +51,7 @@ button {
 .dark-section {
   background-color: rgba(25, 25, 25, .7);
   height: 98vh;
-  width: 80%;
+  width: 80%; 
   margin-left: auto;
   margin-right: auto;
   display: flex;
@@ -83,11 +83,11 @@ button {
 
 .dark-container {
   background-color: rgba(25, 25, 25, .7);
-  width: 80%;
+  width: 80%; 
   margin-left: auto;
   margin-right: auto;
   border-radius: 25px;
-  padding: 20px;
+  padding: 20px; 
   color: white;
 }
 
@@ -103,6 +103,6 @@ button {
 
 @media screen and (min-width: 1200px) {
   .dark-section, .dark-container {
-    max-width: 960px; 
+    max-width: 960px;  
   }
 }
